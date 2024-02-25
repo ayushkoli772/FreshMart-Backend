@@ -1,0 +1,27 @@
+Auth security make to on - Pending
+Password encryption - Pending
+
+msg91       textocal         
+5000 SMS    1000 SMS
+Rs.25/SMS    .29/SMS
+Rs. 1250    Rs. 295
+
+            2000 SMS
+            Rs. 590
+            
+messagebird
+   test api key: yOgy42GUyPG0AaOcYVuzD29qD
+   LIVE api key: HQcjKM9vJstAiATXz8HddsYP6
+Nexmo
+ API key:    a795a2e9
+ Secret key: ZUtCrULQopxzzbo4
+
+
+msg91
+   Authkey(API key): 401712AyNS4UwVVY964b674b5P1
+fast2sms
+   api key:cF7Uq1TiX0YPnzbHpufvRhNSGxydlKIDjkCZo4JLs69rAgtwOek5poQMJRE49tsyHnVXgmuBIjw2Kxv7
+      
+textLocal
+   api key: NGY2YjczNjc0YjdhNjQ2NDUwMzQzNjcxNmQ3YTYxMzk=      
+   
